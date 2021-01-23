@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+### Added
+- Create service class for downloading and extracting JSON
+  [#553](https://github.com/nextcloud/cookbook/pull/553) @christianlupus
+
+### Deprecated
+- Method RecipeService::parseRecipeHtml()
+
 
 ## 0.9.6 - 2021-10-18
 
