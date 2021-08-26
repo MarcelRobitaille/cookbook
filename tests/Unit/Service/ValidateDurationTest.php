@@ -1,6 +1,6 @@
 <?php
 
-namespace OCA\Cookbook\Tests\Unit\Service;
+namespace OCA\Cookbook\tests\Unit\Service;
 
 use OCA\Cookbook\Db\RecipeDb;
 use OCA\Cookbook\Service\RecipeService;
