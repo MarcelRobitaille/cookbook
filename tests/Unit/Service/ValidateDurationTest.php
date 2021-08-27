@@ -4,12 +4,12 @@ namespace OCA\Cookbook\tests\Unit\Service;
 
 use OCA\Cookbook\Db\RecipeDb;
 use OCA\Cookbook\Service\RecipeService;
-use OCP\Files\IRootFolder;
-use OCP\IL10N;
 use OCP\IConfig;
+use OCP\IL10N;
+use OCP\Files\IRootFolder;
+use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 use ReflectionMethod;
-use Test\TestCase;
 
 /**
  * Class ValidateDurationTest tests the validateDuration method of the recipe service.
